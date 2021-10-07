@@ -1,0 +1,25 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "My f NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://www.onlygfx.com/wp-content/uploads/2017/12/4-fake-stamp-vector-png-transparent-svg-cover.jpg",
+            "name": "My NFT 0"
+        },
+        {
+            "id": 1,
+            "description": "My a NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://www.onlygfx.com/wp-content/uploads/2017/12/4-fake-stamp-vector-png-transparent-svg-cover.jpg",
+            "name": "My NFT 1"
+        },
+        {
+            "id": 2,
+            "description": "My k NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://www.onlygfx.com/wp-content/uploads/2017/12/4-fake-stamp-vector-png-transparent-svg-cover.jpg",
+            "name": "My NFT 2"
+        }
+    ]
+}
